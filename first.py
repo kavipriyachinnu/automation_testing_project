@@ -7,7 +7,7 @@ def sub(c,d):
 x = add(6,5)
 y = sub(7,8)
 
-print("Addition of Two Numbers:" ,x) # print the files
-print("Subtraction of two Numbers:", y)
+print("Addition of Two Numbers:" ,x) # print add
+print("Subtraction of two Numbers:", y) # print sub 
 
 
